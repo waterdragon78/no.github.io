@@ -1,0 +1,10 @@
+{
+	"confirm_anim": "Ian Idle",
+	"idle_anim": "Ian Idle",
+	"position": [
+		23,
+		-101
+	],
+	"scale": 1.1,
+	"image": "Menu_Ian"
+}
